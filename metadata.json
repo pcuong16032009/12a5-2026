@@ -1,0 +1,6 @@
+{
+  "name": Những bông hoa của 12A5",
+  "description": "Tạo và gửi bó hoa kỉ niệm điện tử với hoa nở 3D, mở khóa vân tay ma thuật, thư tình cảm động, ảnh kỉ niệm bay bổng và nhạc nền lãng mạn.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
